@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="oclint-0.9dev"><file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="108" beginline="13" endline="13" priority="5" rule="long line">
+Line with 108 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="281" beginline="21" endline="21" priority="5" rule="long line">
+Line with 281 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="151" beginline="22" endline="22" priority="5" rule="long line">
+Line with 151 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="215" beginline="27" endline="27" priority="5" rule="long line">
+Line with 215 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="137" beginline="28" endline="28" priority="5" rule="long line">
+Line with 137 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="153" beginline="33" endline="33" priority="5" rule="long line">
+Line with 153 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="190" beginline="38" endline="38" priority="5" rule="long line">
+Line with 190 characters exceeds limit of 100
+</violation>
+</file>
+
+<file name="/Users/hcl/Desktop/Sample_IOS/HelloWorld/HelloWorld/AppDelegate.m">
+<violation begincolumn="1" endcolumn="124" beginline="43" endline="43" priority="5" rule="long line">
+Line with 124 characters exceeds limit of 100
+</violation>
+</file>
+
+</pmd>

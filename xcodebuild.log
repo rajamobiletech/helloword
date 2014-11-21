@@ -1,0 +1,6 @@
+=== BUILD TARGET HelloWorld OF PROJECT HelloWorld WITH THE DEFAULT CONFIGURATION (Release) ===
+
+Check dependencies
+Code Sign error: No matching codesigning identity found: No codesigning identities (i.e. certificate and private key pairs) matching “iPhone Developer” were found.
+CodeSign error: code signing is required for product type 'Application' in SDK 'iOS 7.1'
+
